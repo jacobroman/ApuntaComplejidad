@@ -1,0 +1,559 @@
+"year","comuna_datachile_id","hs_reduc","comuna_name","Descripcion","fob_value_usd"
+2016,15,"33","Bulnes","Aceites esenciales y resinoides",1329113
+2016,31,"33","Casablanca","Aceites esenciales y resinoides",995431.87
+2016,331,"33","Valparaiso","Aceites esenciales y resinoides",65411.69
+2016,339,"33","Vina del Mar","Aceites esenciales y resinoides",814907.54
+2016,176,"88","Mulchen","Aeronaves, vehiculos espaciales y sus partes",8504.79
+2016,252,"88","Quillota","Aeronaves, vehiculos espaciales y sus partes",10330
+2016,285,"88","San Felipe","Aeronaves, vehiculos espaciales y sus partes",153000
+2016,339,"57","Vina del Mar","Alfombras y demas revestimientos para el suelo de materias textiles",4426.8
+2016,31,"76","Casablanca","Aluminio y sus manufacturas",3423.98
+2016,43,"76","Chillan","Aluminio y sus manufacturas",2794307.01
+2016,64,"76","Concepcion","Aluminio y sus manufacturas",201366.13
+2016,70,"76","Coronel","Aluminio y sus manufacturas",51237.53
+2016,103,"76","Hijuelas","Aluminio y sus manufacturas",2348.45
+2016,152,"76","Los angeles","Aluminio y sus manufacturas",756316.29
+2016,252,"76","Quillota","Aluminio y sus manufacturas",49031
+2016,279,"76","San Antonio","Aluminio y sus manufacturas",2538.79
+2016,285,"76","San Felipe","Aluminio y sus manufacturas",9000
+2016,298,"76","San Pedro de la Paz","Aluminio y sus manufacturas",10702.86
+2016,312,"76","Talcahuano","Aluminio y sus manufacturas",1574869.23
+2016,331,"76","Valparaiso","Aluminio y sus manufacturas",148752.23
+2016,339,"76","Vina del Mar","Aluminio y sus manufacturas",337221.74
+2016,31,"01","Casablanca","Animales",222165
+2016,64,"01","Concepcion","Animales",20000
+2016,142,"01","Llay Llay","Animales",1056950.61
+2016,152,"01","Los angeles","Animales",1055000
+2016,64,"91","Concepcion","Aparatos de relojeria y sus partes",1340.65
+2016,331,"91","Valparaiso","Aparatos de relojeria y sus partes",45035.68
+2016,339,"91","Vina del Mar","Aparatos de relojeria y sus partes",9476.38
+2016,11,"06","Arauco","Arboles y plantas",15212.17
+2016,18,"06","Cabrero","Arboles y plantas",322933.8
+2016,31,"06","Casablanca","Arboles y plantas",66570.39
+2016,103,"06","Hijuelas","Arboles y plantas",1383817.29
+2016,151,"06","Los Andes","Arboles y plantas",1250
+2016,152,"06","Los angeles","Arboles y plantas",3784939.86
+2016,201,"06","Panquehue","Arboles y plantas",147000
+2016,242,"06","Putaendo","Arboles y plantas",2960.75
+2016,250,"06","Quilleco","Arboles y plantas",508842.49
+2016,252,"06","Quillota","Arboles y plantas",6895.8
+2016,331,"42","Valparaiso","Articulos de cuero",1863810.62
+2016,339,"42","Vina del Mar","Articulos de cuero",740.44
+2016,31,"73","Casablanca","Articulos de hierro o acero",1985.71
+2016,63,"73","Con Con","Articulos de hierro o acero",295338.8
+2016,64,"73","Concepcion","Articulos de hierro o acero",41417.34
+2016,70,"73","Coronel","Articulos de hierro o acero",4228.84
+2016,91,"73","Florida","Articulos de hierro o acero",223644.11
+2016,103,"73","Hijuelas","Articulos de hierro o acero",2116.72
+2016,151,"73","Los Andes","Articulos de hierro o acero",303700
+2016,152,"73","Los angeles","Articulos de hierro o acero",4017.2
+2016,208,"73","Pemuco","Articulos de hierro o acero",1229
+2016,210,"73","Penco","Articulos de hierro o acero",94899.86
+2016,252,"73","Quillota","Articulos de hierro o acero",42650.63
+2016,279,"73","San Antonio","Articulos de hierro o acero",22.5
+2016,285,"73","San Felipe","Articulos de hierro o acero",1000
+2016,298,"73","San Pedro de la Paz","Articulos de hierro o acero",45715.9
+2016,312,"73","Talcahuano","Articulos de hierro o acero",109672727.37
+2016,331,"73","Valparaiso","Articulos de hierro o acero",54047.58
+2016,339,"73","Vina del Mar","Articulos de hierro o acero",205246.4
+2016,208,"17","Pemuco","Azucares y articulos de confiteria",20236551.35
+2016,252,"17","Quillota","Azucares y articulos de confiteria",670
+2016,331,"17","Valparaiso","Azucares y articulos de confiteria",3923.09
+2016,339,"17","Vina del Mar","Azucares y articulos de confiteria",1323.96
+2016,63,"89","Con Con","Barcos, embarcaciones y estructuras flotantes",671.33
+2016,152,"89","Los angeles","Barcos, embarcaciones y estructuras flotantes",7647
+2016,312,"89","Talcahuano","Barcos, embarcaciones y estructuras flotantes",35423.73
+2016,331,"89","Valparaiso","Barcos, embarcaciones y estructuras flotantes",9755081.14
+2016,15,"22","Bulnes","Bebidas, licores y vinagre",766277.62
+2016,31,"22","Casablanca","Bebidas, licores y vinagre",30611688.29
+2016,41,"22","Chiguayante","Bebidas, licores y vinagre",75415.95
+2016,43,"22","Chillan","Bebidas, licores y vinagre",5629
+2016,55,"22","Coihueco","Bebidas, licores y vinagre",23687
+2016,64,"22","Concepcion","Bebidas, licores y vinagre",242076.8
+2016,70,"22","Coronel","Bebidas, licores y vinagre",55874.4
+2016,152,"22","Los angeles","Bebidas, licores y vinagre",18351
+2016,201,"22","Panquehue","Bebidas, licores y vinagre",542459.5
+2016,251,"22","Quillon","Bebidas, licores y vinagre",2121781.99
+2016,252,"22","Quillota","Bebidas, licores y vinagre",4930.92
+2016,260,"22","Renquil","Bebidas, licores y vinagre",4542.44
+2016,283,"22","San Esteban","Bebidas, licores y vinagre",6348767.97
+2016,285,"22","San Felipe","Bebidas, licores y vinagre",68100
+2016,294,"22","San Nicolas","Bebidas, licores y vinagre",30276.6
+2016,306,"22","Santa Maria","Bebidas, licores y vinagre",36500
+2016,308,"22","Santo Domingo","Bebidas, licores y vinagre",15887.6
+2016,312,"22","Talcahuano","Bebidas, licores y vinagre",6114.9
+2016,331,"22","Valparaiso","Bebidas, licores y vinagre",1602329.64
+2016,339,"22","Vina del Mar","Bebidas, licores y vinagre",50470.83
+2016,342,"22","Yumbel","Bebidas, licores y vinagre",87998.57
+2016,64,"18","Concepcion","Cacao y preparaciones de cacao",16395.57
+2016,331,"18","Valparaiso","Cacao y preparaciones de cacao",1983.34
+2016,339,"18","Vina del Mar","Cacao y preparaciones de cacao",8554.46
+2016,252,"09","Quillota","Cafe, te, mate y especias",795
+2016,331,"09","Valparaiso","Cafe, te, mate y especias",1356315.98
+2016,331,"64","Valparaiso","Calzado",13507.12
+2016,43,"02","Chillan","Carnes",959960.47
+2016,152,"02","Los angeles","Carnes",2591861
+2016,252,"02","Quillota","Carnes",4907766.54
+2016,63,"40","Con Con","Caucho y sus manufacturas",1014521.34
+2016,64,"40","Concepcion","Caucho y sus manufacturas",3342.6
+2016,70,"40","Coronel","Caucho y sus manufacturas",13457.5
+2016,152,"40","Los angeles","Caucho y sus manufacturas",809.38
+2016,252,"40","Quillota","Caucho y sus manufacturas",10680
+2016,279,"40","San Antonio","Caucho y sus manufacturas",208270.81
+2016,298,"40","San Pedro de la Paz","Caucho y sus manufacturas",31189.85
+2016,331,"40","Valparaiso","Caucho y sus manufacturas",44052.43
+2016,339,"40","Vina del Mar","Caucho y sus manufacturas",11025.33
+2016,342,"40","Yumbel","Caucho y sus manufacturas",3610
+2016,15,"10","Bulnes","Cereales",3455013.55
+2016,151,"10","Los Andes","Cereales",110935.09
+2016,152,"10","Los angeles","Cereales",126414.35
+2016,328,"10","Tucapel","Cereales",131755
+2016,331,"10","Valparaiso","Cereales",4161.5
+2016,64,"79","Concepcion","Cinc y sus manufacturas",11660.08
+2016,43,"74","Chillan","Cobre y sus manufacturas",4034188.68
+2016,64,"74","Concepcion","Cobre y sus manufacturas",531890.24
+2016,70,"74","Coronel","Cobre y sus manufacturas",956252.83
+2016,103,"74","Hijuelas","Cobre y sus manufacturas",27.18
+2016,152,"74","Los angeles","Cobre y sus manufacturas",293194.4
+2016,312,"74","Talcahuano","Cobre y sus manufacturas",4531741.67
+2016,339,"74","Vina del Mar","Cobre y sus manufacturas",4997959.42
+2016,63,"27","Con Con","Combustibles minerales, aceites minerales y productos de su destilacion",136469637.01
+2016,70,"27","Coronel","Combustibles minerales, aceites minerales y productos de su destilacion",43010.1
+2016,252,"27","Quillota","Combustibles minerales, aceites minerales y productos de su destilacion",4
+2016,257,"27","Quintero","Combustibles minerales, aceites minerales y productos de su destilacion",2000
+2016,285,"27","San Felipe","Combustibles minerales, aceites minerales y productos de su destilacion",1556.59
+2016,312,"27","Talcahuano","Combustibles minerales, aceites minerales y productos de su destilacion",14337507.21
+2016,331,"27","Valparaiso","Combustibles minerales, aceites minerales y productos de su destilacion",19117.44
+2016,339,"27","Vina del Mar","Combustibles minerales, aceites minerales y productos de su destilacion",244666.88
+2016,43,"41","Chillan","Cueros y pieles en bruto (excepto la peleteria) y cueros",1823625.46
+2016,64,"41","Concepcion","Cueros y pieles en bruto (excepto la peleteria) y cueros",80122.53
+2016,64,"32","Concepcion","Extractos bronceadores o tintoreos",18074.68
+2016,70,"32","Coronel","Extractos bronceadores o tintoreos",1389471.74
+2016,298,"32","San Pedro de la Paz","Extractos bronceadores o tintoreos",95580.04
+2016,312,"32","Talcahuano","Extractos bronceadores o tintoreos",930
+2016,339,"32","Vina del Mar","Extractos bronceadores o tintoreos",361219.74
+2016,64,"31","Concepcion","Fertilizantes",15500
+2016,31,"55","Casablanca","Fibras discontinuas sinteticas",8040.67
+2016,252,"55","Quillota","Fibras discontinuas sinteticas",1
+2016,323,"53","Tome","Fibras textiles vegetales",795423.75
+2016,323,"54","Tome","Filamentos artificiales",23738.43
+2016,339,"54","Vina del Mar","Filamentos artificiales",12450.6
+2016,1,"08","Algarrobo","Frutas y frutos secos",1242650
+2016,15,"08","Bulnes","Frutas y frutos secos",1657029.89
+2016,16,"08","Cabildo","Frutas y frutos secos",5217103
+2016,22,"08","Calera","Frutas y frutos secos",520817
+2016,43,"08","Chillan","Frutas y frutos secos",82998212.05
+2016,44,"08","Chillan Viejo","Frutas y frutos secos",795384
+2016,55,"08","Coihueco","Frutas y frutos secos",12332783.79
+2016,63,"08","Con Con","Frutas y frutos secos",12453392.94
+2016,64,"08","Concepcion","Frutas y frutos secos",3213501.55
+2016,70,"08","Coronel","Frutas y frutos secos",2280401.38
+2016,91,"08","Florida","Frutas y frutos secos",28224
+2016,103,"08","Hijuelas","Frutas y frutos secos",153120133.45
+2016,118,"08","La Cruz","Frutas y frutos secos",2450222.53
+2016,123,"08","La Ligua","Frutas y frutos secos",87480
+2016,142,"08","Llay Llay","Frutas y frutos secos",13684581.18
+2016,151,"08","Los Andes","Frutas y frutos secos",20006337.89
+2016,152,"08","Los angeles","Frutas y frutos secos",17211634.51
+2016,176,"08","Mulchen","Frutas y frutos secos",3383633.21
+2016,183,"08","Nogales","Frutas y frutos secos",237500
+2016,201,"08","Panquehue","Frutas y frutos secos",15923753.35
+2016,215,"08","Petorca","Frutas y frutos secos",147852
+2016,220,"08","Pinto","Frutas y frutos secos",493531.5
+2016,242,"08","Putaendo","Frutas y frutos secos",5468060.64
+2016,252,"08","Quillota","Frutas y frutos secos",1232828.24
+2016,279,"08","San Antonio","Frutas y frutos secos",23569.51
+2016,281,"08","San Carlos","Frutas y frutos secos",1657737.85
+2016,283,"08","San Esteban","Frutas y frutos secos",12770187.54
+2016,285,"08","San Felipe","Frutas y frutos secos",89115552.38
+2016,288,"08","San Ignacio","Frutas y frutos secos",2017560
+2016,294,"08","San Nicolas","Frutas y frutos secos",1563964.08
+2016,306,"08","Santa Maria","Frutas y frutos secos",4647185.88
+2016,312,"08","Talcahuano","Frutas y frutos secos",7405941.22
+2016,331,"08","Valparaiso","Frutas y frutos secos",7911412.35
+2016,339,"08","Vina del Mar","Frutas y frutos secos",2313343.75
+2016,343,"08","Yungay","Frutas y frutos secos",50918.4
+2016,43,"15","Chillan","Grasas y aceites animales o vegetales",109440
+2016,64,"15","Concepcion","Grasas y aceites animales o vegetales",2869883.01
+2016,123,"15","La Ligua","Grasas y aceites animales o vegetales",179780.65
+2016,152,"15","Los angeles","Grasas y aceites animales o vegetales",286444.29
+2016,157,"15","Lota","Grasas y aceites animales o vegetales",383614.5
+2016,252,"15","Quillota","Grasas y aceites animales o vegetales",213435.26
+2016,279,"15","San Antonio","Grasas y aceites animales o vegetales",75400
+2016,283,"15","San Esteban","Grasas y aceites animales o vegetales",2639.49
+2016,312,"15","Talcahuano","Grasas y aceites animales o vegetales",393.1
+2016,331,"15","Valparaiso","Grasas y aceites animales o vegetales",611
+2016,339,"15","Vina del Mar","Grasas y aceites animales o vegetales",148889.71
+2016,31,"56","Casablanca","Guata, fieltro y tela sin tejer, hilados especiales",7944527.97
+2016,64,"56","Concepcion","Guata, fieltro y tela sin tejer, hilados especiales",24989.75
+2016,331,"56","Valparaiso","Guata, fieltro y tela sin tejer, hilados especiales",168
+2016,1,"82","Algarrobo","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",12000
+2016,31,"82","Casablanca","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",3258.01
+2016,43,"82","Chillan","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",3588.12
+2016,63,"82","Con Con","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",5340
+2016,64,"82","Concepcion","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",1800
+2016,70,"82","Coronel","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",13433.55
+2016,151,"82","Los Andes","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",800
+2016,210,"82","Penco","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",717.69
+2016,252,"82","Quillota","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",18.72
+2016,279,"82","San Antonio","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",7064.21
+2016,285,"82","San Felipe","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",10158.34
+2016,298,"82","San Pedro de la Paz","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",21400.78
+2016,312,"82","Talcahuano","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",283553.38
+2016,331,"82","Valparaiso","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",88341.88
+2016,339,"82","Vina del Mar","Herramientas, utiles, cubiertos, cucharas y tenedores, de metal comun",2956.02
+2016,43,"72","Chillan","Hierro y acero",323827.57
+2016,63,"72","Con Con","Hierro y acero",2035.83
+2016,64,"72","Concepcion","Hierro y acero",299572.54
+2016,152,"72","Los angeles","Hierro y acero",121853.03
+2016,208,"72","Pemuco","Hierro y acero",532
+2016,210,"72","Penco","Hierro y acero",100.88
+2016,279,"72","San Antonio","Hierro y acero",13600
+2016,312,"72","Talcahuano","Hierro y acero",33772783.38
+2016,331,"72","Valparaiso","Hierro y acero",37471.13
+2016,339,"72","Vina del Mar","Hierro y acero",188407.8
+2016,15,"07","Bulnes","Hortalizas y tuberculos",4293751.05
+2016,22,"07","Calera","Hortalizas y tuberculos",763731.64
+2016,43,"07","Chillan","Hortalizas y tuberculos",12983398.59
+2016,91,"07","Florida","Hortalizas y tuberculos",12350
+2016,103,"07","Hijuelas","Hortalizas y tuberculos",1213061.15
+2016,142,"07","Llay Llay","Hortalizas y tuberculos",4633784.57
+2016,151,"07","Los Andes","Hortalizas y tuberculos",1091637.56
+2016,152,"07","Los angeles","Hortalizas y tuberculos",26634
+2016,281,"07","San Carlos","Hortalizas y tuberculos",23650
+2016,285,"07","San Felipe","Hortalizas y tuberculos",792268.1
+2016,306,"07","Santa Maria","Hortalizas y tuberculos",180110.5
+2016,331,"07","Valparaiso","Hortalizas y tuberculos",236321.85
+2016,339,"07","Vina del Mar","Hortalizas y tuberculos",936.03
+2016,70,"23","Coronel","Industrias alimentarias, sus residuos y desechos",33616043.6
+2016,152,"23","Los angeles","Industrias alimentarias, sus residuos y desechos",1095939.7
+2016,157,"23","Lota","Industrias alimentarias, sus residuos y desechos",12991731.29
+2016,312,"23","Talcahuano","Industrias alimentarias, sus residuos y desechos",8022672.5
+2016,328,"23","Tucapel","Industrias alimentarias, sus residuos y desechos",9913.88
+2016,31,"90","Casablanca","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",62263.22
+2016,63,"90","Con Con","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",104506.99
+2016,64,"90","Concepcion","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",92647.34
+2016,70,"90","Coronel","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",105899.77
+2016,151,"90","Los Andes","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",59200
+2016,208,"90","Pemuco","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",2013
+2016,210,"90","Penco","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",200
+2016,279,"90","San Antonio","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",3378.95
+2016,285,"90","San Felipe","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",2013.15
+2016,298,"90","San Pedro de la Paz","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",40832.01
+2016,312,"90","Talcahuano","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",44753.46
+2016,327,"90","Trehuaco","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",400
+2016,331,"90","Valparaiso","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",21089.66
+2016,339,"90","Vina del Mar","Instrumentos y aparatos de optica, fotografia, cinematografia, de medida, control, medicos o quirurgicos",130187.97
+2016,63,"34","Con Con","Jabon, agentes de superficie organicos",38735.79
+2016,70,"34","Coronel","Jabon, agentes de superficie organicos",5270.61
+2016,331,"34","Valparaiso","Jabon, agentes de superficie organicos",302.5
+2016,339,"34","Vina del Mar","Jabon, agentes de superficie organicos",1802592.63
+2016,70,"13","Coronel","Jugos y extractos vegetales",684299.15
+2016,339,"13","Vina del Mar","Jugos y extractos vegetales",7728983.42
+2016,151,"95","Los Andes","Juguetes, juegos y articulos deportivos",2050
+2016,229,"95","Puchuncavi","Juguetes, juegos y articulos deportivos",12630.7
+2016,339,"95","Vina del Mar","Juguetes, juegos y articulos deportivos",5408.13
+2016,323,"51","Tome","Lana, pelo fino u ordinario",13306928.87
+2016,31,"49","Casablanca","Libros impresos, periodicos, fotografias y otros productos de la industria grafica",50
+2016,152,"49","Los angeles","Libros impresos, periodicos, fotografias y otros productos de la industria grafica",20
+2016,210,"49","Penco","Libros impresos, periodicos, fotografias y otros productos de la industria grafica",1128
+2016,229,"49","Puchuncavi","Libros impresos, periodicos, fotografias y otros productos de la industria grafica",1488.12
+2016,252,"49","Quillota","Libros impresos, periodicos, fotografias y otros productos de la industria grafica",405
+2016,285,"49","San Felipe","Libros impresos, periodicos, fotografias y otros productos de la industria grafica",4473.77
+2016,331,"49","Valparaiso","Libros impresos, periodicos, fotografias y otros productos de la industria grafica",7832.14
+2016,339,"49","Vina del Mar","Libros impresos, periodicos, fotografias y otros productos de la industria grafica",4337.43
+2016,1,"86","Algarrobo","Locomotoras de ferrocarril, tranvia, material rodante y sus partes",3000
+2016,63,"86","Con Con","Locomotoras de ferrocarril, tranvia, material rodante y sus partes",18112
+2016,208,"86","Pemuco","Locomotoras de ferrocarril, tranvia, material rodante y sus partes",2000
+2016,279,"86","San Antonio","Locomotoras de ferrocarril, tranvia, material rodante y sus partes",13186546
+2016,331,"86","Valparaiso","Locomotoras de ferrocarril, tranvia, material rodante y sus partes",150162.73
+2016,11,"44","Arauco","Madera y manufacturas de madera",775090555.26
+2016,15,"44","Bulnes","Madera y manufacturas de madera",1672691.49
+2016,18,"44","Cabrero","Madera y manufacturas de madera",49871176.5
+2016,43,"44","Chillan","Madera y manufacturas de madera",9238673.65
+2016,44,"44","Chillan Viejo","Madera y manufacturas de madera",994415.63
+2016,53,"44","Coelemu","Madera y manufacturas de madera",1577863.89
+2016,63,"44","Con Con","Madera y manufacturas de madera",7425
+2016,64,"44","Concepcion","Madera y manufacturas de madera",127612935.31
+2016,70,"44","Coronel","Madera y manufacturas de madera",49381998.56
+2016,106,"44","Hualpen","Madera y manufacturas de madera",71588.73
+2016,150,"44","Los alamos","Madera y manufacturas de madera",17770.55
+2016,152,"44","Los angeles","Madera y manufacturas de madera",111167995.49
+2016,157,"44","Lota","Madera y manufacturas de madera",68261064.55
+2016,181,"44","Negrete","Madera y manufacturas de madera",2749274.35
+2016,210,"44","Penco","Madera y manufacturas de madera",13573.15
+2016,257,"44","Quintero","Madera y manufacturas de madera",156307.99
+2016,260,"44","Renquil","Madera y manufacturas de madera",5685591.63
+2016,298,"44","San Pedro de la Paz","Madera y manufacturas de madera",15827737.82
+2016,306,"44","Santa Maria","Madera y manufacturas de madera",38944.47
+2016,312,"44","Talcahuano","Madera y manufacturas de madera",58080884.37
+2016,323,"44","Tome","Madera y manufacturas de madera",1591.35
+2016,327,"44","Trehuaco","Madera y manufacturas de madera",3459564.78
+2016,331,"44","Valparaiso","Madera y manufacturas de madera",2476053.9
+2016,31,"96","Casablanca","Manufacturas diversas",586.92
+2016,64,"96","Concepcion","Manufacturas diversas",1925.19
+2016,252,"96","Quillota","Manufacturas diversas",4610
+2016,331,"96","Valparaiso","Manufacturas diversas",30131.62
+2016,339,"96","Vina del Mar","Manufacturas diversas",90
+2016,11,"85","Arauco","Maquinaria y equipo electrico y sus partes",3114.41
+2016,31,"85","Casablanca","Maquinaria y equipo electrico y sus partes",12.22
+2016,43,"85","Chillan","Maquinaria y equipo electrico y sus partes",18629.92
+2016,63,"85","Con Con","Maquinaria y equipo electrico y sus partes",442679.89
+2016,64,"85","Concepcion","Maquinaria y equipo electrico y sus partes",6771.09
+2016,70,"85","Coronel","Maquinaria y equipo electrico y sus partes",1495.76
+2016,103,"85","Hijuelas","Maquinaria y equipo electrico y sus partes",18587.86
+2016,151,"85","Los Andes","Maquinaria y equipo electrico y sus partes",2803
+2016,152,"85","Los angeles","Maquinaria y equipo electrico y sus partes",1893.76
+2016,157,"85","Lota","Maquinaria y equipo electrico y sus partes",7000
+2016,208,"85","Pemuco","Maquinaria y equipo electrico y sus partes",11452
+2016,257,"85","Quintero","Maquinaria y equipo electrico y sus partes",127819
+2016,279,"85","San Antonio","Maquinaria y equipo electrico y sus partes",805119.11
+2016,285,"85","San Felipe","Maquinaria y equipo electrico y sus partes",21081.35
+2016,298,"85","San Pedro de la Paz","Maquinaria y equipo electrico y sus partes",18558.35
+2016,312,"85","Talcahuano","Maquinaria y equipo electrico y sus partes",955177
+2016,331,"85","Valparaiso","Maquinaria y equipo electrico y sus partes",230781.57
+2016,339,"85","Vina del Mar","Maquinaria y equipo electrico y sus partes",1345962.38
+2016,18,"83","Cabrero","Metal",386.4
+2016,63,"83","Con Con","Metal",594
+2016,64,"83","Concepcion","Metal",3940
+2016,70,"83","Coronel","Metal",2557880.93
+2016,152,"83","Los angeles","Metal",2871.3
+2016,312,"83","Talcahuano","Metal",1648.8
+2016,331,"83","Valparaiso","Metal",996.52
+2016,339,"83","Vina del Mar","Metal",4059.35
+2016,63,"81","Con Con","Metales",38083.8
+2016,64,"81","Concepcion","Metales",1314
+2016,312,"81","Talcahuano","Metales",397716.52
+2016,331,"81","Valparaiso","Metales",48777.75
+2016,41,"14","Chiguayante","Meteriales de trenzado vegetal",2068764.73
+2016,331,"14","Valparaiso","Meteriales de trenzado vegetal",172800
+2016,339,"14","Vina del Mar","Meteriales de trenzado vegetal",5566419.2
+2016,63,"26","Con Con","Minerales, escorias y cenizas",502.24
+2016,43,"94","Chillan","Mobiliario",117277.13
+2016,63,"94","Con Con","Mobiliario",600
+2016,64,"94","Concepcion","Mobiliario",3000
+2016,279,"94","San Antonio","Mobiliario",450
+2016,285,"94","San Felipe","Mobiliario",73803
+2016,298,"94","San Pedro de la Paz","Mobiliario",16480
+2016,331,"94","Valparaiso","Mobiliario",519194.94
+2016,339,"94","Vina del Mar","Mobiliario",3285.1
+2016,64,"16","Concepcion","Otras carnes, pescado o crustaceos",1350
+2016,70,"16","Coronel","Otras carnes, pescado o crustaceos",12918211.74
+2016,157,"16","Lota","Otras carnes, pescado o crustaceos",876679
+2016,252,"16","Quillota","Otras carnes, pescado o crustaceos",2310227.67
+2016,257,"16","Quintero","Otras carnes, pescado o crustaceos",2992171.5
+2016,331,"16","Valparaiso","Otras carnes, pescado o crustaceos",196150.48
+2016,18,"48","Cabrero","Papel y carton",235
+2016,31,"48","Casablanca","Papel y carton",25307.73
+2016,64,"48","Concepcion","Papel y carton",1
+2016,70,"48","Coronel","Papel y carton",7684057.77
+2016,142,"48","Llay Llay","Papel y carton",34.02
+2016,210,"48","Penco","Papel y carton",880
+2016,229,"48","Puchuncavi","Papel y carton",0.02
+2016,252,"48","Quillota","Papel y carton",18577
+2016,279,"48","San Antonio","Papel y carton",5
+2016,298,"48","San Pedro de la Paz","Papel y carton",31298609.52
+2016,331,"48","Valparaiso","Papel y carton",19273552.05
+2016,339,"48","Vina del Mar","Papel y carton",5008.43
+2016,343,"48","Yungay","Papel y carton",1130
+2016,43,"71","Chillan","Perlas naturales cultivadas",42780.66
+2016,63,"71","Con Con","Perlas naturales cultivadas",10059282.78
+2016,70,"71","Coronel","Perlas naturales cultivadas",138.97
+2016,331,"71","Valparaiso","Perlas naturales cultivadas",19155
+2016,30,"03","Cartagena","Pescados y crustaceos",155358
+2016,63,"03","Con Con","Pescados y crustaceos",2200129.5
+2016,64,"03","Concepcion","Pescados y crustaceos",4087263.03
+2016,70,"03","Coronel","Pescados y crustaceos",29723635.5
+2016,106,"03","Hualpen","Pescados y crustaceos",52552
+2016,123,"03","La Ligua","Pescados y crustaceos",100680
+2016,136,"03","Lebu","Pescados y crustaceos",28612.4
+2016,157,"03","Lota","Pescados y crustaceos",4332380.53
+2016,202,"03","Papudo","Pescados y crustaceos",3224324.8
+2016,210,"03","Penco","Pescados y crustaceos",2941.8
+2016,251,"03","Quillon","Pescados y crustaceos",94852
+2016,257,"03","Quintero","Pescados y crustaceos",242560
+2016,279,"03","San Antonio","Pescados y crustaceos",2027564.75
+2016,298,"03","San Pedro de la Paz","Pescados y crustaceos",101864
+2016,312,"03","Talcahuano","Pescados y crustaceos",43001596.66
+2016,323,"03","Tome","Pescados y crustaceos",129103196.83
+2016,331,"03","Valparaiso","Pescados y crustaceos",39858197.96
+2016,339,"03","Vina del Mar","Pescados y crustaceos",1201576
+2016,31,"68","Casablanca","Piedra, yeso, cemento, amianto, mica o materiales similares",6772.2
+2016,70,"68","Coronel","Piedra, yeso, cemento, amianto, mica o materiales similares",1513.27
+2016,106,"68","Hualpen","Piedra, yeso, cemento, amianto, mica o materiales similares",1985.58
+2016,210,"68","Penco","Piedra, yeso, cemento, amianto, mica o materiales similares",1635
+2016,331,"68","Valparaiso","Piedra, yeso, cemento, amianto, mica o materiales similares",38.5
+2016,339,"68","Vina del Mar","Piedra, yeso, cemento, amianto, mica o materiales similares",58.45
+2016,18,"39","Cabrero","Plasticos y sus manufacturas",7200
+2016,22,"39","Calera","Plasticos y sus manufacturas",36855
+2016,31,"39","Casablanca","Plasticos y sus manufacturas",5421227.31
+2016,41,"39","Chiguayante","Plasticos y sus manufacturas",11850
+2016,43,"39","Chillan","Plasticos y sus manufacturas",10516.04
+2016,63,"39","Con Con","Plasticos y sus manufacturas",98965.59
+2016,64,"39","Concepcion","Plasticos y sus manufacturas",42350.82
+2016,70,"39","Coronel","Plasticos y sus manufacturas",251500.4
+2016,103,"39","Hijuelas","Plasticos y sus manufacturas",30162.58
+2016,151,"39","Los Andes","Plasticos y sus manufacturas",41799
+2016,152,"39","Los angeles","Plasticos y sus manufacturas",284
+2016,210,"39","Penco","Plasticos y sus manufacturas",59739.26
+2016,279,"39","San Antonio","Plasticos y sus manufacturas",14612.5
+2016,285,"39","San Felipe","Plasticos y sus manufacturas",40107
+2016,312,"39","Talcahuano","Plasticos y sus manufacturas",69571.45
+2016,331,"39","Valparaiso","Plasticos y sus manufacturas",43376273.56
+2016,339,"39","Vina del Mar","Plasticos y sus manufacturas",524285.9
+2016,343,"39","Yungay","Plasticos y sus manufacturas",740
+2016,123,"61","La Ligua","Prendas de vestir y complementos de vestir",9326.2
+2016,298,"62","San Pedro de la Paz","Prendas de vestir y complementos de vestir",7000
+2016,331,"61","Valparaiso","Prendas de vestir y complementos de vestir",63.67
+2016,339,"61","Vina del Mar","Prendas de vestir y complementos de vestir",8423.54
+2016,339,"62","Vina del Mar","Prendas de vestir y complementos de vestir",162358.71
+2016,15,"19","Bulnes","Preparaciones a base de cereales, harina, fecula o leche",100000.06
+2016,64,"19","Concepcion","Preparaciones a base de cereales, harina, fecula o leche",4933132.36
+2016,328,"19","Tucapel","Preparaciones a base de cereales, harina, fecula o leche",4732928.38
+2016,331,"19","Valparaiso","Preparaciones a base de cereales, harina, fecula o leche",13058.15
+2016,339,"19","Vina del Mar","Preparaciones a base de cereales, harina, fecula o leche",2024.47
+2016,43,"21","Chillan","Preparaciones alimenticias diversas",17885.09
+2016,252,"21","Quillota","Preparaciones alimenticias diversas",73238.77
+2016,331,"21","Valparaiso","Preparaciones alimenticias diversas",1759449.82
+2016,339,"21","Vina del Mar","Preparaciones alimenticias diversas",6711.76
+2016,16,"20","Cabildo","Preparaciones de hortalizas, frutas u otros frutos o demas partes de plantas",33600
+2016,43,"20","Chillan","Preparaciones de hortalizas, frutas u otros frutos o demas partes de plantas",167133.8
+2016,63,"20","Con Con","Preparaciones de hortalizas, frutas u otros frutos o demas partes de plantas",615178.5
+2016,103,"20","Hijuelas","Preparaciones de hortalizas, frutas u otros frutos o demas partes de plantas",13329.6
+2016,152,"20","Los angeles","Preparaciones de hortalizas, frutas u otros frutos o demas partes de plantas",608680.26
+2016,252,"20","Quillota","Preparaciones de hortalizas, frutas u otros frutos o demas partes de plantas",38304
+2016,285,"20","San Felipe","Preparaciones de hortalizas, frutas u otros frutos o demas partes de plantas",72305
+2016,331,"20","Valparaiso","Preparaciones de hortalizas, frutas u otros frutos o demas partes de plantas",7602.84
+2016,339,"20","Vina del Mar","Preparaciones de hortalizas, frutas u otros frutos o demas partes de plantas",6871.07
+2016,64,"69","Concepcion","Productos ceramicos",4969
+2016,210,"69","Penco","Productos ceramicos",533276.32
+2016,298,"69","San Pedro de la Paz","Productos ceramicos",4116
+2016,15,"11","Bulnes","Productos de la molienda",25104.2
+2016,16,"11","Cabildo","Productos de la molienda",81300
+2016,64,"11","Concepcion","Productos de la molienda",388682.26
+2016,152,"11","Los angeles","Productos de la molienda",338188.08
+2016,208,"11","Pemuco","Productos de la molienda",33669711.4
+2016,328,"11","Tucapel","Productos de la molienda",569593.4
+2016,331,"11","Valparaiso","Productos de la molienda",2812.28
+2016,339,"11","Vina del Mar","Productos de la molienda",361.79
+2016,185,"05","√ëiqu√©n","Productos de origen animal",653100
+2016,43,"05","Chillan","Productos de origen animal",27478.85
+2016,152,"05","Los angeles","Productos de origen animal",1956.49
+2016,298,"05","San Pedro de la Paz","Productos de origen animal",8020
+2016,64,"30","Concepcion","Productos farmaceuticos",377345.53
+2016,252,"37","Quillota","Productos fotograficos o cinematograficos",3182.08
+2016,331,"37","Valparaiso","Productos fotograficos o cinematograficos",536
+2016,339,"37","Vina del Mar","Productos fotograficos o cinematograficos",6338.61
+2016,252,"04","Quillota","Productos Lacteos",615501
+2016,331,"04","Valparaiso","Productos Lacteos",57735.12
+2016,22,"28","Calera","Productos quimicos inorganicos",53838
+2016,63,"28","Con Con","Productos quimicos inorganicos",4644
+2016,312,"28","Talcahuano","Productos quimicos inorganicos",1070710.22
+2016,331,"28","Valparaiso","Productos quimicos inorganicos",537553.5
+2016,339,"28","Vina del Mar","Productos quimicos inorganicos",171913.8
+2016,22,"38","Calera","Productos quimicos n.c.o.p.",43144
+2016,64,"38","Concepcion","Productos quimicos n.c.o.p.",107001.47
+2016,70,"38","Coronel","Productos quimicos n.c.o.p.",1051687.5
+2016,210,"38","Penco","Productos quimicos n.c.o.p.",157.56
+2016,279,"38","San Antonio","Productos quimicos n.c.o.p.",100
+2016,298,"38","San Pedro de la Paz","Productos quimicos n.c.o.p.",1103.27
+2016,331,"38","Valparaiso","Productos quimicos n.c.o.p.",87738.33
+2016,339,"38","Vina del Mar","Productos quimicos n.c.o.p.",310709.71
+2016,22,"29","Calera","Productos quimicos organicos",25200
+2016,31,"29","Casablanca","Productos quimicos organicos",196.65
+2016,70,"29","Coronel","Productos quimicos organicos",55339.8
+2016,279,"29","San Antonio","Productos quimicos organicos",24975
+2016,312,"29","Talcahuano","Productos quimicos organicos",82389.5
+2016,331,"29","Valparaiso","Productos quimicos organicos",199791.81
+2016,339,"29","Vina del Mar","Productos quimicos organicos",258747.88
+2016,306,"47","Santa Maria","Pulpa de madera u otro material celulosico fibroso",236145.96
+2016,331,"47","Valparaiso","Pulpa de madera u otro material celulosico fibroso",189156.5
+2016,1,"84","Algarrobo","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",72000
+2016,11,"84","Arauco","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",25000
+2016,16,"84","Cabildo","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",24500
+2016,22,"84","Calera","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",17500
+2016,31,"84","Casablanca","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",43454.65
+2016,43,"84","Chillan","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",17160.48
+2016,44,"84","Chillan Viejo","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",493498.1
+2016,63,"84","Con Con","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",10724599.55
+2016,64,"84","Concepcion","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",233702.74
+2016,70,"84","Coronel","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",1641346.36
+2016,86,"84","El Quisco","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",6634.96
+2016,103,"84","Hijuelas","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",15766.37
+2016,106,"84","Hualpen","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",15648.65
+2016,123,"84","La Ligua","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",48612
+2016,151,"84","Los Andes","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",10484
+2016,152,"84","Los angeles","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",253805.56
+2016,183,"84","Nogales","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",8852
+2016,201,"84","Panquehue","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",1747.46
+2016,208,"84","Pemuco","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",3068
+2016,210,"84","Penco","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",70549
+2016,252,"84","Quillota","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",142893.21
+2016,257,"84","Quintero","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",11156.99
+2016,279,"84","San Antonio","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",117385.47
+2016,285,"84","San Felipe","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",71885.94
+2016,298,"84","San Pedro de la Paz","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",158449.81
+2016,312,"84","Talcahuano","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",728638.55
+2016,331,"84","Valparaiso","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",546848.72
+2016,339,"84","Vina del Mar","Reactores nucleares, calderas, maquinaria y aparatos mecanicos",3079424.96
+2016,22,"25","Calera","Sal",74
+2016,64,"25","Concepcion","Sal",22132.5
+2016,70,"25","Coronel","Sal",76672.86
+2016,210,"25","Penco","Sal",11177.4
+2016,312,"25","Talcahuano","Sal",431.62
+2016,331,"25","Valparaiso","Sal",179573.18
+2016,339,"25","Vina del Mar","Sal",11250
+2016,15,"12","Bulnes","Semillas y frutos oleaginosos",12237163.88
+2016,18,"12","Cabrero","Semillas y frutos oleaginosos",27500
+2016,30,"12","Cartagena","Semillas y frutos oleaginosos",18770.01
+2016,31,"12","Casablanca","Semillas y frutos oleaginosos",331281.36
+2016,41,"12","Chiguayante","Semillas y frutos oleaginosos",926354.63
+2016,44,"12","Chillan Viejo","Semillas y frutos oleaginosos",1464535.15
+2016,64,"12","Concepcion","Semillas y frutos oleaginosos",8277514.99
+2016,70,"12","Coronel","Semillas y frutos oleaginosos",962520
+2016,103,"12","Hijuelas","Semillas y frutos oleaginosos",2389153.35
+2016,107,"12","Hualqui","Semillas y frutos oleaginosos",2298322.06
+2016,118,"12","La Cruz","Semillas y frutos oleaginosos",135128.3
+2016,151,"12","Los Andes","Semillas y frutos oleaginosos",192848.94
+2016,152,"12","Los angeles","Semillas y frutos oleaginosos",7659473.98
+2016,157,"12","Lota","Semillas y frutos oleaginosos",22772.34
+2016,183,"12","Nogales","Semillas y frutos oleaginosos",20580906.38
+2016,208,"12","Pemuco","Semillas y frutos oleaginosos",159942.88
+2016,242,"12","Putaendo","Semillas y frutos oleaginosos",63791.15
+2016,252,"12","Quillota","Semillas y frutos oleaginosos",3702220.13
+2016,257,"12","Quintero","Semillas y frutos oleaginosos",52911.15
+2016,312,"12","Talcahuano","Semillas y frutos oleaginosos",414419
+2016,331,"12","Valparaiso","Semillas y frutos oleaginosos",696341.74
+2016,339,"12","Vina del Mar","Semillas y frutos oleaginosos",6881837.81
+2016,31,"35","Casablanca","Sustancias albuminoideas",3564.97
+2016,63,"35","Con Con","Sustancias albuminoideas",2285
+2016,151,"35","Los Andes","Sustancias albuminoideas",23100
+2016,339,"35","Vina del Mar","Sustancias albuminoideas",36470.2
+2016,31,"24","Casablanca","Tabaco y sucedaneos del tabaco elaborados",98253121.57
+2016,31,"59","Casablanca","Tejidos textiles",10808
+2016,63,"59","Con Con","Tejidos textiles",122188.55
+2016,64,"59","Concepcion","Tejidos textiles",147021.42
+2016,339,"59","Vina del Mar","Tejidos textiles",2305.78
+2016,331,"58","Valparaiso","Telas",1553.47
+2016,331,"60","Valparaiso","Telas",4283.5
+2016,339,"58","Vina del Mar","Telas",535.34
+2016,22,"63","Calera","Textiles, articulos confeccionados",272822.97
+2016,323,"63","Tome","Textiles, articulos confeccionados",8506.65
+2016,331,"63","Valparaiso","Textiles, articulos confeccionados",24
+2016,339,"63","Vina del Mar","Textiles, articulos confeccionados",27764.32
+2016,28,"87","Canete","Vehiculos",8000
+2016,44,"87","Chillan Viejo","Vehiculos",55922.16
+2016,63,"87","Con Con","Vehiculos",210044.1
+2016,64,"87","Concepcion","Vehiculos",18971.27
+2016,151,"87","Los Andes","Vehiculos",107339282.57
+2016,152,"87","Los angeles","Vehiculos",8578.03
+2016,252,"87","Quillota","Vehiculos",8018.07
+2016,257,"87","Quintero","Vehiculos",148895
+2016,279,"87","San Antonio","Vehiculos",294.9
+2016,298,"87","San Pedro de la Paz","Vehiculos",10387.95
+2016,331,"87","Valparaiso","Vehiculos",16200
+2016,339,"87","Vina del Mar","Vehiculos",32576.02
+2016,210,"70","Penco","Vidrio y cristaleria",4422460.78
+2016,252,"70","Quillota","Vidrio y cristaleria",4438
+2016,285,"70","San Felipe","Vidrio y cristaleria",18695.87
+2016,339,"70","Vina del Mar","Vidrio y cristaleria",2159.68
